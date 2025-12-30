@@ -12,14 +12,14 @@ Python Keylogger : A Python-based keylogger for capturing and logging keystrokes
 ## Installation
 
 1. **Clone the Repository:**
-   git clone https://github.com/Aziz-Rahmouni/Keylogger-Project.gitents.txt
+   ```git clone https://github.com/Zyyz2/Keylogger-Project.git```
 
 2. **Navigate to the Directory:**
-   cd Keylogger-Project
+   ```cd Keylogger-Project```
    
 4. **Install Dependencies:** 
    1. pynput/keyboard.
-   2. Then, install the dependencies using: pip install -r requirements.txt
+   2. Then, install the dependencies using: ```pip install -r requirements.txt```
 
 
 
@@ -29,7 +29,7 @@ Python Keylogger : A Python-based keylogger for capturing and logging keystrokes
 
 ## Usage
 1. **Run the Keylogger:**
-python keylogger.py
+```python3 keylogger.py```
 
 3. **Configuration:**
    1. Modify credentials.txt with your email details.
