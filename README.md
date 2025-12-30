@@ -42,7 +42,7 @@ This tool is provided for educational purposes to illustrate keylogging techniqu
 Contributions are welcome! Please submit issues, suggestions, or pull requests.
 
 ## Contact
-For questions or feedback, contact me at "azizrahmouni8basic@gmail.com".
+For questions or feedback, contact me at [linkedin](https://www.linkedin.com/in/azizrahmouni/).
   
 
 
